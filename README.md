@@ -22,8 +22,8 @@
 
  
  ### My Github Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ongyiren1994&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ongyiren1994&langs_count=10&count_private=true&hide=javascript&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogeTan&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dogeTan&langs_count=10&count_private=true&hide=javascript&layout=compact)
 
 <!--
 
